@@ -1,0 +1,4 @@
+C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\reactStandAlone\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\reactStandAlone\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\msql saitynas\reactproject1\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\Paulius\Desktop\Saityno taikomosios programos modulis\Git project\msql saitynas\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
